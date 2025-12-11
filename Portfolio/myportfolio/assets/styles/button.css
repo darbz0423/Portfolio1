@@ -1,0 +1,27 @@
+.primary-button {
+  background: #2c313fc4;
+  padding: 12px 18px;
+  border: 1px solid transparent;
+  color: #000000;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+.primary-button:hover {
+  background: #3d3d3d;
+}
+
+.secondary-button {
+  background: transparent;
+  padding: 12px 18px;
+  border: 1px solid #0f0f0fc4;
+  color: #000000;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+}
+
+.secondary-button:hover {
+  background: #0f0f0fc4;
+}
